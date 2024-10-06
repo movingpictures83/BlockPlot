@@ -1,0 +1,2 @@
+Prefix plugins/BlockPlot/example/
+Plugin BlockPlot inputfile SQTL.rds outputfile blockplot.pdf
